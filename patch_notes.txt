@@ -1,0 +1,11 @@
+Version 1.0
+- Basic movements
+
+Version 2.0
+Core:
+- Fix basic movements
+- Player can now block attacks
+- Player can now loose health
+
+UI:
+- Add health bars
